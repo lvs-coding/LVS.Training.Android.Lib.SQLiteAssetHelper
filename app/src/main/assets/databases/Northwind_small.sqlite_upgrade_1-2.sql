@@ -1,0 +1,1 @@
+update Employee set LastName = 'Pedro' where id = 2;

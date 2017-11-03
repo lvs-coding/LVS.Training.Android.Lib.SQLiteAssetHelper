@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Projects/Android/AS3/LVS.Training.Android.Lib.GreenDao.Queries/LVS.Training.Android.Lib.GreenDao.Queries.iml" filepath="$USER_HOME$/Projects/Android/AS3/LVS.Training.Android.Lib.GreenDao.Queries/LVS.Training.Android.Lib.GreenDao.Queries.iml" />
+      <module fileurl="file://$USER_HOME$/Projects/Android/AS3/LVS.Training.Android.Lib.GreenDao.Queries/app/app.iml" filepath="$USER_HOME$/Projects/Android/AS3/LVS.Training.Android.Lib.GreenDao.Queries/app/app.iml" />
+    </modules>
+  </component>
+</project>
